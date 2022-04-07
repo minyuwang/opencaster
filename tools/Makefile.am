@@ -5,5 +5,5 @@ SUBDIRS = oc2sec sec2ts zpipe tsfilter tsloop tsmodder tsnullfiller \
 	tsfixcc tsudpreceive tsudpsend dsmcc-receive pesclock tspcrstamp \
 	tstcpreceive tstcpsend tstimeout tstimedwrite tsinputswitch \
 	tsdoubleoutput pes2txt tsoutputswitch totsectionrestamp tsccc \
-	txt2pes pesdata2ts
+	txt2pes pesdata2ts dssudpsend
 

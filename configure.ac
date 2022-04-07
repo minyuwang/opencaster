@@ -102,6 +102,7 @@ tools/tstimedwrite/Makefile
 tools/tstimeout/Makefile
 tools/tsudpreceive/Makefile
 tools/tsudpsend/Makefile
+tools/dssudpsend/Makefile
 tools/tsvbr2cbr/Makefile
 tools/txt2pes/Makefile
 tools/vbv/Makefile
